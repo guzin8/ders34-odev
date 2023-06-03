@@ -1,0 +1,14 @@
+.personalInformations{
+    display: flex;
+    justify-content: space-between;
+}
+.profilInfoBadge{
+    text-align: center;
+    display: flex;
+    gap: 25px;
+    justify-content: space-around;
+}
+
+.rightSide{
+   
+}
